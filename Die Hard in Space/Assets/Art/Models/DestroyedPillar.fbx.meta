@@ -1,24 +1,18 @@
 fileFormatVersion: 2
-guid: ce476685bacad8b4cbaea317384560c9
+guid: df52c45c661aabd43b2c7005f76f96c0
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: pCube1
-    100002: //RootNode
-    100004: side1
-    400000: pCube1
-    400002: //RootNode
-    400004: side1
-    2000000: side1
-    2100000: lambert1
-    2300000: pCube1
-    2300002: //RootNode
-    3300000: pCube1
-    3300002: //RootNode
-    4300000: pCube1
+    100000: //RootNode
+    400000: //RootNode
+    2100000: lambert2
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Massout_Pillar2
+    9500000: //RootNode
   externalObjects: {}
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -52,7 +46,7 @@ ModelImporter:
     addColliders: 0
     importVisibility: 1
     importBlendShapes: 1
-    importCameras: 0
+    importCameras: 1
     importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
@@ -67,14 +61,14 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
@@ -92,7 +86,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
